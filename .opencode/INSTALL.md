@@ -40,6 +40,9 @@ Verify by asking: "List available skills"
 - **ios-application-dev** — iOS application development with UIKit, SnapKit, and SwiftUI
 - **shader-dev** — GLSL shader techniques for stunning visual effects (ShaderToy-compatible)
 - **gif-sticker-maker** — Convert photos into animated GIF stickers (Funko Pop / Pop Mart style)
+- **minimax-pdf** — Generate, fill, and reformat PDF documents with a token-based design system
+- **pptx-generator** — Generate, edit, and read PowerPoint presentations
+- **minimax-xlsx** — Open, create, read, analyze, edit, or validate Excel/spreadsheet files
 
 ## Updating
 
